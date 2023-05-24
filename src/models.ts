@@ -28,8 +28,13 @@ export interface ITransaction {
   number: number;
   type: string;
   text: string;
+  tab: number;
 }
 
 export interface IWelcome {
   total: number;
+}
+
+export interface DataProps {
+  data: IAllData;
 }

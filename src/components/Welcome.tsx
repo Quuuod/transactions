@@ -1,4 +1,4 @@
-import SeeTransaction from './SeeTransaction';
+import ShowTransaction from './ShowTransaction';
 import Total from './Total';
 import { IWelcome } from '../models';
 
@@ -15,7 +15,7 @@ function Welcome({ total }: IWelcome) {
       </div>
 
       <div className="mb-14 mt-5 w-full flex items-center">
-        <SeeTransaction text="See transactions" />
+        <ShowTransaction text="See transactions" tab={0} />
       </div>
 
       <Total total={total} />
