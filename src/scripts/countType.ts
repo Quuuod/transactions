@@ -1,7 +1,7 @@
-import { IData, IDataTypes } from '../models';
+import { IData, ITransactionTypes } from '../models';
 
-export function countType(arr: Array<IData>): IDataTypes {
-  const res: IDataTypes = {
+export function countType(arr: Array<IData>): ITransactionTypes {
+  const res: ITransactionTypes = {
     income: 0,
     outcome: 0,
     loan: 0,

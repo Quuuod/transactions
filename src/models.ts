@@ -17,9 +17,19 @@ export interface IAllData {
   data: Array<IData>;
 }
 
-export interface IDataTypes {
+export interface ITransactionTypes {
   income: number;
   outcome: number;
   loan: number;
   investment: number;
+}
+
+export interface ITransaction {
+  number: number;
+  type: string;
+  text: string;
+}
+
+export interface IWelcome {
+  total: number;
 }
