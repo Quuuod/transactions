@@ -3,7 +3,7 @@
   "data": [
     {
       "_id": "5d99beb677015a5c2c14542e",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "295726",
       "type": "outcome",
       "name": { "first": "Jordan", "last": "Bauer" },
       "company": "SNORUS",
@@ -13,7 +13,7 @@
     },
     {
       "_id": "5d99beb69a6aac64be820dbe",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "234380",
       "type": "outcome",
       "name": { "first": "Francis", "last": "Owens" },
       "company": "EXOPLODE",
@@ -23,7 +23,7 @@
     },
     {
       "_id": "5d99beb635dd82195040195b",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "713427",
       "type": "outcome",
       "name": { "first": "Bass", "last": "Church" },
       "company": "ACCRUEX",
@@ -33,7 +33,7 @@
     },
     {
       "_id": "5d99beb6283bac04b3763000",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "506635",
       "type": "outcome",
       "name": { "first": "Mabel", "last": "Holt" },
       "company": "MALATHION",
@@ -43,7 +43,7 @@
     },
     {
       "_id": "5d99beb6207f35413c9b629b",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "645900",
       "type": "loan",
       "name": { "first": "Lambert", "last": "Higgins" },
       "company": "GEEKOLOGY",
@@ -53,7 +53,7 @@
     },
     {
       "_id": "5d99beb6f6db754cee0835a0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "582451",
       "type": "income",
       "name": { "first": "Jeanie", "last": "Wiley" },
       "company": "CORECOM",
@@ -63,7 +63,7 @@
     },
     {
       "_id": "5d99beb6c0c5d1e73c8bb5a2",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "77153",
       "type": "income",
       "name": { "first": "Lynn", "last": "Summers" },
       "company": "BLUEGRAIN",
@@ -73,7 +73,7 @@
     },
     {
       "_id": "5d99beb69aec11b778e276c9",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "883986",
       "type": "investment",
       "name": { "first": "Roseann", "last": "Lowe" },
       "company": "NORALI",
@@ -83,7 +83,7 @@
     },
     {
       "_id": "5d99beb61851f0fadfe6bca0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "569833",
       "type": "loan",
       "name": { "first": "Dianna", "last": "Underwood" },
       "company": "GEOLOGIX",
@@ -93,7 +93,7 @@
     },
     {
       "_id": "5d99beb61894e3a0d8a8aaeb",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "511383",
       "type": "investment",
       "name": { "first": "Misty", "last": "Wells" },
       "company": "ZILCH",
@@ -103,7 +103,7 @@
     },
     {
       "_id": "5d99beb6b15536f75b46a608",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "192427",
       "type": "investment",
       "name": { "first": "Tammie", "last": "Cotton" },
       "company": "GENMOM",
@@ -113,7 +113,7 @@
     },
     {
       "_id": "5d99beb62fc237aa62133abc",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "471123",
       "type": "income",
       "name": { "first": "Rasmussen", "last": "Paul" },
       "company": "SUPPORTAL",
@@ -123,7 +123,7 @@
     },
     {
       "_id": "5d99beb6e0f76b46c0f5ce21",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "218878",
       "type": "outcome",
       "name": { "first": "Allie", "last": "Solomon" },
       "company": "TOYLETRY",
@@ -133,7 +133,7 @@
     },
     {
       "_id": "5d99beb67ba49c6e156b8999",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "64030",
       "type": "investment",
       "name": { "first": "Hammond", "last": "Stanton" },
       "company": "XTH",
@@ -143,7 +143,7 @@
     },
     {
       "_id": "5d99beb6b13450897a61c8b0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "357250",
       "type": "loan",
       "name": { "first": "Scott", "last": "Petty" },
       "company": "ZOINAGE",
@@ -153,7 +153,7 @@
     },
     {
       "_id": "5d99beb6f9f4e1748d85a971",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "839284",
       "type": "outcome",
       "name": { "first": "Alexander", "last": "Harrell" },
       "company": "RONELON",
@@ -163,7 +163,7 @@
     },
     {
       "_id": "5d99beb600162e31cce6d255",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "440696",
       "type": "loan",
       "name": { "first": "Letitia", "last": "Combs" },
       "company": "PHOLIO",
@@ -173,7 +173,7 @@
     },
     {
       "_id": "5d99beb6f46990cdedd7a054",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "682375",
       "type": "loan",
       "name": { "first": "Myers", "last": "Russell" },
       "company": "IDEGO",
@@ -183,7 +183,7 @@
     },
     {
       "_id": "5d99beb68066435dd603b971",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "420436",
       "type": "outcome",
       "name": { "first": "Daphne", "last": "Pearson" },
       "company": "ZYTREK",
@@ -193,7 +193,7 @@
     },
     {
       "_id": "5d99beb6481acdc4f1f2dbcd",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "787531",
       "type": "loan",
       "name": { "first": "Dillon", "last": "Hull" },
       "company": "CENTURIA",
@@ -203,7 +203,7 @@
     },
     {
       "_id": "5d99beb66abe615580c7868c",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "87164",
       "type": "income",
       "name": { "first": "Reese", "last": "Hunt" },
       "company": "KEENGEN",
@@ -213,7 +213,7 @@
     },
     {
       "_id": "5d99beb6cf9df8720ce4e771",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "309500",
       "type": "investment",
       "name": { "first": "Howard", "last": "Hodge" },
       "company": "KIOSK",
@@ -223,7 +223,7 @@
     },
     {
       "_id": "5d99beb6022f6189a1f23970",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "147835",
       "type": "loan",
       "name": { "first": "Kathleen", "last": "Patel" },
       "company": "ACCUFARM",
@@ -233,7 +233,7 @@
     },
     {
       "_id": "5d99beb6230c62aa8243ff80",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "694657",
       "type": "outcome",
       "name": { "first": "Amparo", "last": "Horne" },
       "company": "MARQET",
@@ -243,7 +243,7 @@
     },
     {
       "_id": "5d99beb6f7f32d24da875f1b",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "765112",
       "type": "investment",
       "name": { "first": "Acevedo", "last": "Finley" },
       "company": "DANCITY",
@@ -253,7 +253,7 @@
     },
     {
       "_id": "5d99beb68b54b0c3a0ef3470",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "354902",
       "type": "income",
       "name": { "first": "Moore", "last": "Strong" },
       "company": "TELEQUIET",
@@ -263,7 +263,7 @@
     },
     {
       "_id": "5d99beb6b7490a9aacc00b1a",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "446473",
       "type": "investment",
       "name": { "first": "Ina", "last": "Becker" },
       "company": "QUOTEZART",
@@ -273,7 +273,7 @@
     },
     {
       "_id": "5d99beb64e9dfcb53acd8626",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "887459",
       "type": "outcome",
       "name": { "first": "Dorsey", "last": "Juarez" },
       "company": "ENERSAVE",
@@ -283,7 +283,7 @@
     },
     {
       "_id": "5d99beb6f53bb9cc0b870839",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "278618",
       "type": "loan",
       "name": { "first": "Wolfe", "last": "Michael" },
       "company": "ISOLOGIA",
@@ -293,7 +293,7 @@
     },
     {
       "_id": "5d99beb626d3124fa91e7429",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "837567",
       "type": "outcome",
       "name": { "first": "Manning", "last": "Preston" },
       "company": "GENMY",
@@ -303,7 +303,7 @@
     },
     {
       "_id": "5d99beb664a4e4c72591f9a3",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "582839",
       "type": "income",
       "name": { "first": "Tucker", "last": "Bender" },
       "company": "SUPREMIA",
@@ -313,7 +313,7 @@
     },
     {
       "_id": "5d99beb66b24688a0de700a0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "187313",
       "type": "outcome",
       "name": { "first": "Skinner", "last": "Mcfarland" },
       "company": "ZBOO",
@@ -323,7 +323,7 @@
     },
     {
       "_id": "5d99beb6c0dba22f51f3adc2",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "111935",
       "type": "investment",
       "name": { "first": "Farrell", "last": "Campbell" },
       "company": "HALAP",
@@ -333,7 +333,7 @@
     },
     {
       "_id": "5d99beb6d3647cf8b14c9409",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "121326",
       "type": "income",
       "name": { "first": "Cathy", "last": "Oneil" },
       "company": "ACUSAGE",
@@ -343,7 +343,7 @@
     },
     {
       "_id": "5d99beb698d1fbade2a863a3",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "757316",
       "type": "outcome",
       "name": { "first": "Lindsey", "last": "Gates" },
       "company": "HOTCAKES",
@@ -353,7 +353,7 @@
     },
     {
       "_id": "5d99beb633f3e5c3e8378aa7",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "308966",
       "type": "outcome",
       "name": { "first": "Key", "last": "Armstrong" },
       "company": "VISUALIX",
@@ -363,7 +363,7 @@
     },
     {
       "_id": "5d99beb6af9bf2e627e8f6ad",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "375997",
       "type": "outcome",
       "name": { "first": "Mueller", "last": "Woods" },
       "company": "SENSATE",
@@ -373,7 +373,7 @@
     },
     {
       "_id": "5d99beb6967feb03ef03b2e9",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "466190",
       "type": "investment",
       "name": { "first": "Stacey", "last": "Aguilar" },
       "company": "ENAUT",
@@ -383,7 +383,7 @@
     },
     {
       "_id": "5d99beb6069071371bb4fe57",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12878",
       "type": "investment",
       "name": { "first": "Fitzpatrick", "last": "Martinez" },
       "company": "HINWAY",
@@ -393,7 +393,7 @@
     },
     {
       "_id": "5d99beb645e90e295a14abaf",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "210604",
       "type": "investment",
       "name": { "first": "Sanchez", "last": "Hooper" },
       "company": "REVERSUS",
@@ -403,7 +403,7 @@
     },
     {
       "_id": "5d99beb65b3f217fd4c9fe32",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "524405",
       "type": "loan",
       "name": { "first": "Christian", "last": "Henry" },
       "company": "QUALITEX",
@@ -413,7 +413,7 @@
     },
     {
       "_id": "5d99beb690336c6b9a82eb4a",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "777395",
       "type": "outcome",
       "name": { "first": "Jodie", "last": "Guerrero" },
       "company": "ZENTIME",
@@ -423,7 +423,7 @@
     },
     {
       "_id": "5d99beb6c3b33f427845205d",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "849840",
       "type": "outcome",
       "name": { "first": "Conley", "last": "Monroe" },
       "company": "CANOPOLY",
@@ -433,7 +433,7 @@
     },
     {
       "_id": "5d99beb6121ba61ba9c779bc",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "864794",
       "type": "loan",
       "name": { "first": "Janell", "last": "Banks" },
       "company": "ZORK",
@@ -443,7 +443,7 @@
     },
     {
       "_id": "5d99beb6e7771bb8cff666d6",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "448757",
       "type": "outcome",
       "name": { "first": "Ward", "last": "Castro" },
       "company": "SIGNIDYNE",
@@ -453,7 +453,7 @@
     },
     {
       "_id": "5d99beb6086149feeefc2e66",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "286428",
       "type": "loan",
       "name": { "first": "Hogan", "last": "Walter" },
       "company": "BARKARAMA",
@@ -463,7 +463,7 @@
     },
     {
       "_id": "5d99beb6ff11eacb34de4f10",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "887951",
       "type": "loan",
       "name": { "first": "Inez", "last": "Zamora" },
       "company": "ESSENSIA",
@@ -473,7 +473,7 @@
     },
     {
       "_id": "5d99beb60be55eb1da68c4ba",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "293051",
       "type": "loan",
       "name": { "first": "Bridges", "last": "Patton" },
       "company": "SONGBIRD",
@@ -483,7 +483,7 @@
     },
     {
       "_id": "5d99beb64337005cefde4626",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "313735",
       "type": "loan",
       "name": { "first": "Grimes", "last": "Jenkins" },
       "company": "GINKLE",
@@ -493,7 +493,7 @@
     },
     {
       "_id": "5d99beb6f7e4e652c75868a8",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "198651",
       "type": "investment",
       "name": { "first": "Shepherd", "last": "Durham" },
       "company": "ZEAM",
@@ -503,7 +503,7 @@
     },
     {
       "_id": "5d99beb63c892055952c1908",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "903050",
       "type": "investment",
       "name": { "first": "Morris", "last": "Stephens" },
       "company": "AQUACINE",
@@ -513,7 +513,7 @@
     },
     {
       "_id": "5d99beb6c614fe4c8ca3c023",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "475488",
       "type": "investment",
       "name": { "first": "Josie", "last": "House" },
       "company": "ISOSURE",
@@ -523,7 +523,7 @@
     },
     {
       "_id": "5d99beb6558891537809623e",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "777904",
       "type": "loan",
       "name": { "first": "Hall", "last": "Brewer" },
       "company": "UBERLUX",
@@ -533,7 +533,7 @@
     },
     {
       "_id": "5d99beb6a5060fbac46cc79d",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "794906",
       "type": "investment",
       "name": { "first": "Perkins", "last": "Watkins" },
       "company": "RUBADUB",
@@ -543,7 +543,7 @@
     },
     {
       "_id": "5d99beb68533edf2fdc241bb",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "694653",
       "type": "investment",
       "name": { "first": "Bender", "last": "Rivas" },
       "company": "UNIA",
@@ -553,7 +553,7 @@
     },
     {
       "_id": "5d99beb6ba779217e965a21c",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "548105",
       "type": "outcome",
       "name": { "first": "Boone", "last": "Butler" },
       "company": "OPTICOM",
@@ -563,7 +563,7 @@
     },
     {
       "_id": "5d99beb6ffddf4af466b7a06",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "132377",
       "type": "income",
       "name": { "first": "Cathleen", "last": "Brown" },
       "company": "FIBEROX",
@@ -573,7 +573,7 @@
     },
     {
       "_id": "5d99beb6d927af5635543e87",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "26547",
       "type": "investment",
       "name": { "first": "Marcia", "last": "Haley" },
       "company": "SENMEI",
@@ -583,7 +583,7 @@
     },
     {
       "_id": "5d99beb6b0699f34547ef9cd",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "802303",
       "type": "outcome",
       "name": { "first": "Claire", "last": "Curtis" },
       "company": "EXOSIS",
@@ -593,7 +593,7 @@
     },
     {
       "_id": "5d99beb61eac41d3bcaeea76",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "239810",
       "type": "income",
       "name": { "first": "Gardner", "last": "Burch" },
       "company": "MARTGO",
@@ -603,7 +603,7 @@
     },
     {
       "_id": "5d99beb6ef3b7cd3990499d8",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "604809",
       "type": "outcome",
       "name": { "first": "Mercer", "last": "Sexton" },
       "company": "PUSHCART",
@@ -613,7 +613,7 @@
     },
     {
       "_id": "5d99beb6815f3f77883aaf66",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "187559",
       "type": "investment",
       "name": { "first": "Rebecca", "last": "Odonnell" },
       "company": "IMKAN",
@@ -623,7 +623,7 @@
     },
     {
       "_id": "5d99beb6adcc0c81c5e63963",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "662082",
       "type": "outcome",
       "name": { "first": "Church", "last": "Vance" },
       "company": "EARBANG",
@@ -633,7 +633,7 @@
     },
     {
       "_id": "5d99beb685d74a082da6bc67",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "345864",
       "type": "investment",
       "name": { "first": "Jocelyn", "last": "Henderson" },
       "company": "MATRIXITY",
@@ -643,7 +643,7 @@
     },
     {
       "_id": "5d99beb688c61720ca3ce583",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "833890",
       "type": "investment",
       "name": { "first": "Virginia", "last": "Vega" },
       "company": "MITROC",
@@ -653,7 +653,7 @@
     },
     {
       "_id": "5d99beb6639c96a75559eeac",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "231513",
       "type": "investment",
       "name": { "first": "Odonnell", "last": "Lewis" },
       "company": "GEOFORMA",
@@ -663,7 +663,7 @@
     },
     {
       "_id": "5d99beb67a6153f9b5df016e",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "773489",
       "type": "income",
       "name": { "first": "Tia", "last": "Best" },
       "company": "KINETICUT",
@@ -673,7 +673,7 @@
     },
     {
       "_id": "5d99beb6fb959e811bd36cb4",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "284802",
       "type": "loan",
       "name": { "first": "Duran", "last": "Russo" },
       "company": "TROPOLIS",
@@ -683,7 +683,7 @@
     },
     {
       "_id": "5d99beb64ffa3eefb4f844ae",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "754220",
       "type": "outcome",
       "name": { "first": "Margo", "last": "Gill" },
       "company": "TASMANIA",
@@ -693,7 +693,7 @@
     },
     {
       "_id": "5d99beb626a11674d75bba44",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "604698",
       "type": "income",
       "name": { "first": "Lyons", "last": "Hobbs" },
       "company": "MOMENTIA",
@@ -703,7 +703,7 @@
     },
     {
       "_id": "5d99beb6b6d969195fff486f",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "648688",
       "type": "investment",
       "name": { "first": "Gonzales", "last": "Horn" },
       "company": "TELPOD",
@@ -713,7 +713,7 @@
     },
     {
       "_id": "5d99beb6e28b54e75b93127f",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "324964",
       "type": "loan",
       "name": { "first": "Larsen", "last": "Merritt" },
       "company": "CIRCUM",
@@ -723,7 +723,7 @@
     },
     {
       "_id": "5d99beb62ddbe863c0e68462",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "355121",
       "type": "outcome",
       "name": { "first": "Bradshaw", "last": "Browning" },
       "company": "MAGNEMO",
@@ -733,7 +733,7 @@
     },
     {
       "_id": "5d99beb6064d6307872d67d3",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "705411",
       "type": "outcome",
       "name": { "first": "Leta", "last": "Hayden" },
       "company": "UNIWORLD",
@@ -743,7 +743,7 @@
     },
     {
       "_id": "5d99beb6410994433c7d1eba",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "145202",
       "type": "investment",
       "name": { "first": "Baxter", "last": "Craft" },
       "company": "BALUBA",
@@ -753,7 +753,7 @@
     },
     {
       "_id": "5d99beb65bf1a846313590f0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "327660",
       "type": "investment",
       "name": { "first": "Chen", "last": "Riley" },
       "company": "ECSTASIA",
@@ -763,7 +763,7 @@
     },
     {
       "_id": "5d99beb6fc1c67e102aee9e7",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "817656",
       "type": "loan",
       "name": { "first": "Mcfarland", "last": "Clayton" },
       "company": "ZENCO",
@@ -773,7 +773,7 @@
     },
     {
       "_id": "5d99beb63a32d412427672da",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "679748",
       "type": "outcome",
       "name": { "first": "Hernandez", "last": "Lee" },
       "company": "NURALI",
@@ -783,7 +783,7 @@
     },
     {
       "_id": "5d99beb61f78f116aafaad7b",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "318739",
       "type": "income",
       "name": { "first": "Katina", "last": "Solis" },
       "company": "SLAMBDA",
@@ -793,7 +793,7 @@
     },
     {
       "_id": "5d99beb6abc50cae2376910a",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "844193",
       "type": "loan",
       "name": { "first": "Tanya", "last": "Hewitt" },
       "company": "ZILLIDIUM",
@@ -803,7 +803,7 @@
     },
     {
       "_id": "5d99beb6a6c3c2ca5dcb855c",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "340117",
       "type": "loan",
       "name": { "first": "Tillman", "last": "Buchanan" },
       "company": "BOILICON",
@@ -813,7 +813,7 @@
     },
     {
       "_id": "5d99beb695b05943e5dd78dd",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "208331",
       "type": "outcome",
       "name": { "first": "Maria", "last": "Hart" },
       "company": "PYRAMI",
@@ -823,7 +823,7 @@
     },
     {
       "_id": "5d99beb6608b27c39d17ce02",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "494786",
       "type": "loan",
       "name": { "first": "Sondra", "last": "Stuart" },
       "company": "CUBIX",
@@ -833,7 +833,7 @@
     },
     {
       "_id": "5d99beb649dcf9042e8ebf3e",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "36138",
       "type": "income",
       "name": { "first": "Carpenter", "last": "Castillo" },
       "company": "PASTURIA",
@@ -843,7 +843,7 @@
     },
     {
       "_id": "5d99beb6eff39a753c169f9c",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "228528",
       "type": "investment",
       "name": { "first": "Christina", "last": "Roman" },
       "company": "KINDALOO",
@@ -853,7 +853,7 @@
     },
     {
       "_id": "5d99beb634e062b7a7bca29b",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "173159",
       "type": "income",
       "name": { "first": "Anna", "last": "Boyd" },
       "company": "DANCERITY",
@@ -863,7 +863,7 @@
     },
     {
       "_id": "5d99beb6fd10ed3634a91a16",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "224347",
       "type": "loan",
       "name": { "first": "Yolanda", "last": "Mcdonald" },
       "company": "OVATION",
@@ -873,7 +873,7 @@
     },
     {
       "_id": "5d99beb67d581d81e0038c8e",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "232977",
       "type": "outcome",
       "name": { "first": "Kristi", "last": "Wilkins" },
       "company": "ZIALACTIC",
@@ -883,7 +883,7 @@
     },
     {
       "_id": "5d99beb654a34b0559076fe6",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "499436",
       "type": "investment",
       "name": { "first": "Stacie", "last": "Ortiz" },
       "company": "KONGLE",
@@ -893,7 +893,7 @@
     },
     {
       "_id": "5d99beb6b28061f866d2c339",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "697630",
       "type": "outcome",
       "name": { "first": "Bonner", "last": "Carter" },
       "company": "IMAGINART",
@@ -903,7 +903,7 @@
     },
     {
       "_id": "5d99beb65814fce715011141",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "190038",
       "type": "investment",
       "name": { "first": "Graciela", "last": "Deleon" },
       "company": "OVOLO",
@@ -913,7 +913,7 @@
     },
     {
       "_id": "5d99beb62061d5009c894004",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "63988",
       "type": "loan",
       "name": { "first": "Marsha", "last": "Chan" },
       "company": "ENORMO",
@@ -923,7 +923,7 @@
     },
     {
       "_id": "5d99beb66941cc9e3e358edd",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "352207",
       "type": "loan",
       "name": { "first": "Ladonna", "last": "Bentley" },
       "company": "NETPLODE",
@@ -933,7 +933,7 @@
     },
     {
       "_id": "5d99beb669a12f644f5139ee",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "762425",
       "type": "outcome",
       "name": { "first": "Alta", "last": "Thompson" },
       "company": "VOLAX",
@@ -943,7 +943,7 @@
     },
     {
       "_id": "5d99beb6d97a1b21014e5ff1",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "205595",
       "type": "income",
       "name": { "first": "Ayala", "last": "Conrad" },
       "company": "EMTRAC",
@@ -953,7 +953,7 @@
     },
     {
       "_id": "5d99beb6ccc8097475120981",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "172457",
       "type": "investment",
       "name": { "first": "Glenda", "last": "Lindsey" },
       "company": "ECLIPSENT",
@@ -963,7 +963,7 @@
     },
     {
       "_id": "5d99beb645a511c0f6bce20b",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "138616",
       "type": "income",
       "name": { "first": "Rhodes", "last": "Lyons" },
       "company": "SYNKGEN",
@@ -973,7 +973,7 @@
     },
     {
       "_id": "5d99beb6a22b596eaf635fd1",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "446330",
       "type": "loan",
       "name": { "first": "Bond", "last": "Talley" },
       "company": "DIGIGEN",
@@ -983,7 +983,7 @@
     },
     {
       "_id": "5d99beb65daa71ef83ec6f57",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "94279",
       "type": "income",
       "name": { "first": "Curry", "last": "Conley" },
       "company": "BICOL",
@@ -993,7 +993,7 @@
     },
     {
       "_id": "5d99beb60457512fe012d3c8",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "94248",
       "type": "income",
       "name": { "first": "Rhoda", "last": "Pickett" },
       "company": "PYRAMAX",

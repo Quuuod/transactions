@@ -1,7 +1,7 @@
 export interface IData {
   _id: string;
   amount: string;
-  type: 'income' | 'outcome' | 'loan' | 'investment';
+  type: "income" | "outcome" | "loan" | "investment";
   name: {
     first: string;
     last: string;
@@ -37,4 +37,11 @@ export interface IWelcome {
 
 export interface DataProps {
   data: IAllData;
+}
+
+export enum TransactionsTypes {
+  income = 0,
+  outcome = 1,
+  loan = 2,
+  investment = 3,
 }
