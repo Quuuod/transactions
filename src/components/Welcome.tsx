@@ -1,7 +1,7 @@
-import ShowTransaction from './ShowTransaction';
-import Total from './Total';
 import { IWelcome } from '../models';
 import WelcomeHead from './WelcomeHead';
+import ShowTransaction from './ShowTransaction';
+import Total from './Total';
 
 function Welcome({ total }: IWelcome) {
   return (

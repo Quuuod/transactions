@@ -1,5 +1,5 @@
-import { DataProps, TransactionsTypes } from '../models';
 import { useLocation } from 'react-router-dom';
+import { DataProps, TransactionsTypes } from '../models';
 import { CreateDataList } from '../scripts/createDataList';
 import ListTableHead from './ListTableHead';
 

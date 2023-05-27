@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import Transaction from './Transaction';
 import { countType } from '../scripts/countType';
 import { ITransactionTypes, DataProps } from '../models';
+import Transaction from './Transaction';
 
 function Transactions({ data }: DataProps) {
   const [{ income, investment, outcome, loan }, setDataType] =

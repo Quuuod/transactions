@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import Transactions from './Transactions';
 import { DataProps } from '../models';
 import Welcome from './Welcome';
+import Transactions from './Transactions';
 
 function SummaryPage({ data }: DataProps) {
   const [total, setTotal] = useState<number>(data.total);

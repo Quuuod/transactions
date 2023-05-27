@@ -1,8 +1,8 @@
-import ListNavigationBtn from './ListNavigationBtn';
-import { tabs } from '../models';
 import { useEffect } from 'react';
-import { liActive } from '../scripts/liActive';
 import { useLocation } from 'react-router-dom';
+import { tabs } from '../models';
+import { liActive } from '../scripts/liActive';
+import ListNavigationBtn from './ListNavigationBtn';
 
 function ListNavigation() {
   const location = useLocation();
