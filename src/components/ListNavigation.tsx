@@ -8,7 +8,7 @@ function ListNavigation() {
   const location = useLocation();
 
   useEffect(() => {
-    liActive('liType' + location.search.at(-1));
+    liActive(location.search.at(-1));
   }, [location.search]);
 
   return (
