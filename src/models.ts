@@ -1,7 +1,7 @@
 export interface IData {
   _id: string;
   amount: string;
-  type: "income" | "outcome" | "loan" | "investment";
+  type: 'income' | 'outcome' | 'loan' | 'investment';
   name: {
     first: string;
     last: string;
@@ -30,6 +30,15 @@ export interface ITransaction {
   text: string;
   tab: number;
 }
+export interface ITransactionNavigate {
+  text: string;
+  tab: number;
+}
+
+export interface INumberType {
+  number: number;
+  type: string;
+}
 
 export interface IWelcome {
   total: number;
@@ -45,3 +54,5 @@ export enum TransactionsTypes {
   loan = 2,
   investment = 3,
 }
+
+export const tabs: string[] = ['Income', 'Outcome', 'Loans', 'Investments'];

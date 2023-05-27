@@ -1,22 +1,26 @@
-import { useNavigate } from "react-router-dom";
+import ListNavigationBtn from './ListNavigationBtn';
+import { tabs } from '../models';
+import { useEffect } from 'react';
+import { liActive } from '../scripts/liActive';
+import { useLocation } from 'react-router-dom';
 
-function ListNavigation({ tab, text }: { tab: number; text: string }) {
-  const navigate = useNavigate();
+function ListNavigation() {
+  const location = useLocation();
+
+  useEffect(() => {
+    liActive('liType' + location.search.at(-1));
+  }, [location.search]);
 
   return (
-    <li
-      className='inline-flex cursor-pointer border-box p-5 mt-0.5 h-10 border-x-2 border-t-2 border-black rounded-t-xl items-center justify-center w-1/4 bg-slate-100 hover:bg-slate-300 active:bg-slate-400 '
-      onClick={(e) => {
-        document.querySelectorAll("li").forEach((li) => {
-          li.classList.remove("bg-slate-300");
-        });
-        const target = e.target as HTMLLIElement;
-        target.classList.add("bg-slate-300");
-        navigate(`?tab=${tab}`);
-      }}
-    >
-      {text}
-    </li>
+    <div className="absolute top-0 w-full">
+      <ul className="">
+        {tabs.map((value, index) => {
+          return (
+            <ListNavigationBtn key={value + index} tab={index} text={value} />
+          );
+        })}
+      </ul>
+    </div>
   );
 }
 
