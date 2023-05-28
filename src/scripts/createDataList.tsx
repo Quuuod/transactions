@@ -11,7 +11,7 @@ export function CreateDataList(
         return (
           <tr
             key={first + last}
-            className="border-b-2 border-slate-300 text-left"
+            className="border-b-2  border-zinc-200 text-center"
           >
             <td>
               {first} {last}

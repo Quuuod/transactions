@@ -9,7 +9,7 @@ function DataList({ data }: DataProps) {
 
   return (
     <div className="flex jusify-center items-center h-fit pt-24 w-full">
-      <table className="w-full m-2">
+      <table className="w-full m-16">
         <ListTableHead />
 
         {CreateDataList(data.data, TransactionsTypes[transactionsType])}
